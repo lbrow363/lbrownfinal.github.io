@@ -22,7 +22,7 @@ body {
     background-image: url(images/background2.png);
 }
 
-
+img { border-style: none; }
 
 #mainheader {
     background-color: #a5a78e;
